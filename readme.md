@@ -1,6 +1,6 @@
 # PriceApplicator
 <p style="font-size: 20px; text-align: justify;">
-<em>PriceApplicator</em> es una applicación que provee un endpoint para realizar una consulta sobre
+<em>PriceApplicator</em> es una aplicación que provee un endpoint para realizar una consulta sobre
 el precio a aplicar, para un producto según unos criterios de producto, marca, fecha y hora 
 provistos.<br/>
 Está desarrollada en spring-boot con Java 11
